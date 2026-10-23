@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "解剖生理學溫習",
+  "short_name": "解剖生理",
+  "description": "19 章解剖生理學重點、217 題分程度選擇題、17 幅可縮放圖鑑；離線可用。",
+  "lang": "zh-Hant",
+  "dir": "ltr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "portrait-primary",
+  "background_color": "#F6F1E7",
+  "theme_color": "#0E4B4A",
+  "categories": ["education", "medical", "productivity"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
